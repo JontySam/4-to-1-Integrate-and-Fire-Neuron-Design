@@ -1,0 +1,91 @@
+* "simulator" "HSPICE" 
+* "version" "R-2020.12-3 linux64"
+* "format" "HSP"
+* "rundate" "03:56:49 12/07/2024 "
+* "netlist" "Run.sp "
+* "runtitle" "** run inverter file"
+* time =  1.000e-09       
+* temperature =  2.500e+01       
+*** BEGIN: Saved Operating Point ***                     
+*.option
+*+ gmindc = 1.000e-12      
+.nodeset
++ a0 = 0.000e+00       
++ a1 = 0.000e+00       
++ a2 = 0.000e+00       
++ a3 = 0.000e+00       
++ b0 = 8.000e-01       
++ b1 = 8.000e-01       
++ b2 = 8.000e-01       
++ b3 = 8.000e-01       
++ cout = 1.334e-07       
++ net1 = 2.363e-06       
++ net2 = 8.000e-01       
++ net3 = 1.610e-07       
++ s0 = 8.000e-01       
++ s1 =-1.985e-04       
++ s2 = 8.000e-01       
++ s3 = 8.000e-01       
++ vdd = 8.000e-01       
++ xi0^net1 = 7.609e-07       
++ xi0^net2 = 8.000e-01       
++ xi3^net1 = 8.000e-01       
++ xi3^net2 = 8.000e-01       
++ xi3^net3 = 8.000e-01       
++ xi2^net1 = 8.000e-01       
++ xi2^net2 = 8.000e-01       
++ xi2^net3 = 8.000e-01       
++ xi1^net1 = 8.000e-01       
++ xi1^net2 = 8.000e-01       
++ xi1^net3 = 4.586e-05       
++ xi0^xi0^net2 = 7.507e-07       
++ xi0^xi1^net1 = 9.226e-01       
++ xi0^xi1^net2 = 8.000e-01       
++ xi0^xi1^net4 = 8.249e-07       
++ xi0^xi1^net6 = 7.526e-01       
++ xi3^xi1^net1 = 8.000e-01       
++ xi3^xi1^net2 = 3.616e-07       
++ xi3^xi0^net1 = 4.177e-07       
++ xi3^xi0^net2 = 8.000e-01       
++ xi3^xi2^net1 = 7.620e-01       
++ xi2^xi1^net1 = 8.000e-01       
++ xi2^xi1^net2 =-1.257e-06       
++ xi2^xi0^net1 = 6.166e-07       
++ xi2^xi0^net2 = 8.000e-01       
++ xi2^xi2^net1 = 7.620e-01       
++ xi1^xi1^net1 =-5.139e-05       
++ xi1^xi1^net2 =-7.698e-06       
++ xi1^xi0^net1 = 1.197e-05       
++ xi1^xi0^net2 = 8.000e-01       
++ xi1^xi2^net1 = 8.000e-01       
++ xi3^xi1^xi0^net2 = 7.589e-01       
++ xi3^xi1^xi1^net1 = 8.000e-01       
++ xi3^xi1^xi1^net2 = 8.000e-01       
++ xi3^xi1^xi1^net4 = 7.589e-01       
++ xi3^xi1^xi1^net6 = 5.333e-07       
++ xi3^xi0^xi0^net2 = 6.660e-07       
++ xi3^xi0^xi1^net1 = 8.000e-01       
++ xi3^xi0^xi1^net2 = 8.000e-01       
++ xi3^xi0^xi1^net4 = 6.660e-07       
++ xi3^xi0^xi1^net6 = 7.589e-01       
++ xi2^xi1^xi0^net2 = 7.589e-01       
++ xi2^xi1^xi1^net1 = 8.000e-01       
++ xi2^xi1^xi1^net2 = 8.000e-01       
++ xi2^xi1^xi1^net4 = 7.589e-01       
++ xi2^xi1^xi1^net6 =-3.935e-06       
++ xi2^xi0^xi0^net2 = 6.660e-07       
++ xi2^xi0^xi1^net1 = 8.000e-01       
++ xi2^xi0^xi1^net2 = 8.000e-01       
++ xi2^xi0^xi1^net4 = 6.660e-07       
++ xi2^xi0^xi1^net6 = 7.589e-01       
++ xi1^xi1^xi0^net2 =-9.149e-05       
++ xi1^xi1^xi1^net1 = 8.000e-01       
++ xi1^xi1^xi1^net2 = 4.742e-02       
++ xi1^xi1^xi1^net4 = 2.485e-04       
++ xi1^xi1^xi1^net6 =-1.189e-01       
++ xi1^xi0^xi0^net2 = 6.659e-07       
++ xi1^xi0^xi1^net1 = 8.003e-01       
++ xi1^xi0^xi1^net2 = 8.000e-01       
++ xi1^xi0^xi1^net4 = 6.660e-07       
++ xi1^xi0^xi1^net6 = 7.584e-01       
+***   END: Saved Operating Point ***                     

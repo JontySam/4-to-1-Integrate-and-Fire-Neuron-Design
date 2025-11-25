@@ -1,0 +1,20 @@
+HEADER
+"PSFversion" "1.00"
+"simulator" "HSPICE"
+"version" "R-2020.12-3 linux64"
+"rundate" "04:06:46 12/07/2024"
+"runtitle" "** run inverter file                                                            "
+"runtype" "Summary Information"
+"temperature" "2.500e+01"
+"op point time" "0.06"
+"op point iterations" "22"
+"transient time" "0.32"
+"transient iterations" "857"
+"total cpu time" "0.88"
+"node value" "invalid"
+"operating point" "invalid"
+"ac analysis" "invalid"
+"dc sweep" "invalid"
+"transient analysis" "complete"
+TRAILER
+END

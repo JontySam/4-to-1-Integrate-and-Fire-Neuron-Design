@@ -1,0 +1,23 @@
+* "simulator" "HSPICE" 
+* "version" "R-2020.12-3 linux64"
+* "format" "HSP"
+* "rundate" "23:02:42 12/06/2024 "
+* "netlist" "RunEXOR.sp "
+* "runtitle" "** run inverter file"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ b = 800.0000m       
++ inva = 799.9996m       
++ invb = 415.7487n       
++ net1 = 799.9985m       
++ net2 = 799.9985m       
++ net4 = 665.9887n       
++ net6 = 758.8846m       
++ vdd = 800.0000m       
++ y = 799.9970m       
+***   END: Saved Operating Point ***                     

@@ -1,0 +1,26 @@
+* "simulator" "HSPICE" 
+* "version" "R-2020.12-3 linux64"
+* "format" "HSP"
+* "rundate" "13:13:00 12/07/2024 "
+* "netlist" "runHA.sp "
+* "runtitle" "** run inverter file"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a = 800.0000m       
++ b = 800.0000m       
++ c = 799.9996m       
++ s =   1.9771u       
++ vdd = 800.0000m       
++ xi0.net1 = 699.2582n       
++ xi0.net2 = 352.7412n       
++ xi1.invb = 410.1561n       
++ xi1.net1 = 799.9994m       
++ xi1.net2 =  42.6874m       
++ xi1.net3 = 414.2833n       
++ xi1.net4 = 991.6716n       
++ xi1.net6 = 988.5405n       
+***   END: Saved Operating Point ***                     
